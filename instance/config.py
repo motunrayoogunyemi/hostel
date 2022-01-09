@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI='mysql+mysqlconnector://root@localhost/property_db'
+SQLALCHEMY_TRACK_MODIFICATIONS=False
